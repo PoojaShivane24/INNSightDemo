@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">INNsight demo</string>
+    <string name="year">Year:</string>
+    <string name="genre">Genre:</string>
+    <string name="runtime">Runtime:</string>
+    <string name="director">"Director: "</string>
+    <string name="writer">Writer:</string>
+    <string name="actors">Actors:</string>
+    <string name="language">Language:</string>
+    <string name="box_office">Box Office:</string>
+</resources>
